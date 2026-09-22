@@ -1,6 +1,6 @@
 module github.com/NVIDIA/aicr
 
-go 1.27
+go 1.27.0
 
 require (
 	github.com/CycloneDX/cyclonedx-go v0.12.0
@@ -22,7 +22,7 @@ require (
 	github.com/sigstore/sigstore v1.10.9
 	github.com/sigstore/sigstore-go v1.3.0
 	github.com/sigstore/sigstore/pkg/signature/kms/aws v1.10.9
-	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.10.9
+	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.11.0
 	github.com/sigstore/sigstore/pkg/signature/kms/gcp v1.10.9
 	github.com/sigstore/sigstore/pkg/signature/kms/hashivault v1.10.9
 	github.com/stretchr/testify v1.12.1
