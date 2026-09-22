@@ -1,6 +1,6 @@
 module github.com/NVIDIA/aicr
 
-go 1.27
+go 1.27.0
 
 require (
 	github.com/CycloneDX/cyclonedx-go v0.12.0
@@ -19,7 +19,7 @@ require (
 	github.com/prometheus/client_golang v1.24.1
 	github.com/sigstore/protobuf-specs v0.5.2
 	github.com/sigstore/rekor-monitor v0.0.0-20260902112758-d9967857bb65
-	github.com/sigstore/sigstore v1.10.9
+	github.com/sigstore/sigstore v1.11.0
 	github.com/sigstore/sigstore-go v1.3.0
 	github.com/sigstore/sigstore/pkg/signature/kms/aws v1.10.9
 	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.10.9
